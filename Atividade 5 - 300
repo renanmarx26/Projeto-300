@@ -1,0 +1,1 @@
+Seria um comando de decisão, onde os resultados (3<4), (9>3) e  !(4<5)) || (2>0) são VERDADEIROS, onde juntando os resultados obtemos 20.
